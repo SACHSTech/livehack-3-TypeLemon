@@ -8,7 +8,7 @@ Author: Yeh.A
 Created: 03/03/2021
 --------------------------------------------------------
 """
-print("***** Welcome to the DoorDash Distance Tracker! *****")
+print("***** Welcome to the DoorDash Distance Tracker *****")
 print(" ")
 
 print("** Travel Log **")
@@ -28,7 +28,7 @@ print(" ")
 print("** Summary **")
 
 #outputs the number of days it took to drive more than 100km
-print("It took", num_days, "days to surpass 100km driven.")
+print("It took", num_days, "day(s) to surpass 100km driven.")
 #rounds and outputs the average distance to nearest km/whole number 
 average = int(total/num_days)
 print("The average distance driven per day is", average, "km.")
