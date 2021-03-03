@@ -13,7 +13,7 @@ print(" ")
 
 print("** Travel Log **")
 
-#asks the user how far they travelled each day until the sum is greater than 100
+#asks the user how far they travelled each day until the total is greater than 100
 #counts number of days for each time the while loop is runned through
 total = 0
 num_days = 0
